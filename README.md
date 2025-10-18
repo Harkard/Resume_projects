@@ -1,2 +1,2 @@
 # Resume_projects
-Current Projects that I have worked on
+Current Projects that I have worked on.
